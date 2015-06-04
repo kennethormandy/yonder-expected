@@ -1,0 +1,5 @@
+/contact                  /about
+/portfolio/tumblr-theme/  /portfolio
+/blog                     /journal
+/category/:category       /journal
+/wp-*                     /

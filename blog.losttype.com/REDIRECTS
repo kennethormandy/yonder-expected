@@ -1,0 +1,6 @@
+/blog/:year/:month/:day/:slug  /:slug
+/:year/:month/:day/:slug       /:slug
+
+/font/?name=:name              http://losttype.com/font/:name
+/browse                        http://losttype.com/browse
+/font                          http://losttype.com/browse

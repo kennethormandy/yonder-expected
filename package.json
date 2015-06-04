@@ -1,0 +1,14 @@
+{
+  "name": "yonder-expected",
+  "version": "0.1.0",
+  "description": "Expected example test cases for Yonder.",
+  "homepage": "https://kennethormandy.com",
+  "author": "Kenneth Ormandy <kenneth@surge.sh> (http://kennethormandy.com)",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/kennethormandy/yonder-examples.git",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/yonder-examples are greatly appreciated.\" && exit 1"
+  }
+}

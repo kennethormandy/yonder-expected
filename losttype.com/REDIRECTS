@@ -1,0 +1,23 @@
+# Redirects
+
+301 /font/?name=:name               /font/:name
+302 /font/                          /browse
+302 /store                          http://store.losttype.com
+
+301 /blog/:year/:month/:day/:slug   http://blog.losttype.com/:slug
+
+
+# Removed blog posts
+
+301 /blog/2014/01/15/whats-so-popular-about-the-powerball-lottery/             http://blog.losttype.com
+301 /blog/2012/11/21/graphic-designers-and-game-creation/                      http://blog.losttype.com
+301 /blog/2012/12/05/grab-your-graphic-design-tools-and-create-t-casino-site/  http://blog.losttype.com
+301 /blog/2014/01/13/a-webful-of-fonts/                                        http://blog.losttype.com
+301 /blog/2014/01/25/serif-characters-and-typography/                          http://blog.losttype.com
+301 /blog/2014/02/01/neon-graveyard-the-las-vegas-font-experience/             http://blog.losttype.com
+301 /blog/2014/02/01/originality-is-the-first-skill/                           http://blog.losttype.com
+301 /blog/2014/02/08/importance-of-fonts-in-web-designing/                     http://blog.losttype.com
+301 /blog/2013/08/14/written-communication-is-important/                       http://blog.losttype.com
+301 /blog/2014/03/31/finding-the-best-font-for-your-locksmith-co/              http://blog.losttype.com
+301 /blog/2014/04/27/how-to-watermarks-photos-is-it-always-nece/               http://blog.losttype.com
+301 /blog/2014/05/06/posters-to-advertise-your-firm/                           http://blog.losttype.com
