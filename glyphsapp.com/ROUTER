@@ -1,0 +1,3 @@
+# Multi-page docs to single page docs
+
+/tutorials/:title  /tutorial#:title
